@@ -46,7 +46,7 @@
 
 ---
 
-<h2 align="left">🌐 Connect with me</h2>
+<h2 align="left">🌐 Profiles & Contact</h2>
 
 <div align="left">
 
@@ -59,7 +59,9 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/KgwhXGLiXu/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"
+     width="40" height="40"
+     style="filter: invert(64%) sepia(77%) saturate(748%) hue-rotate(360deg) brightness(102%) contrast(101%);"/>
 </a>
 
 </div>
