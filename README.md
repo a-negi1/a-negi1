@@ -9,7 +9,7 @@
 <p align="left">
 🎓 Student @ TIET, Patiala <br>
  
-🚀 Interested in scalable web apps & AI-powered products
+🚀 Interested in building scalable web apps & AI-powered products
 </p>
 
 ---
