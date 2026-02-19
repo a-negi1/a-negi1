@@ -59,10 +59,9 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/KgwhXGLiXu/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"
-     width="40" height="40"
-     style="filter: invert(64%) sepia(77%) saturate(748%) hue-rotate(360deg) brightness(102%) contrast(101%);"/>
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="40" height="40"/>
 </a>
+
 
 </div>
 
