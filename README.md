@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Adheesh Negi</h1>
 
-<h3 align="center">Full-Stack Developer | Problem Solver | Tech Explorer</h3>
+<h3 align="center">💻Full-Stack Developer | Problem Solver | Tech Explorer</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 
 <p align="left">
 🎓 Student @ TIET, Patiala <br>
-💻 Full-Stack Developer <br>
+ 
 🚀 Interested in scalable web apps & AI-powered products
 </p>
 
