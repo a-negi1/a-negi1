@@ -66,9 +66,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=a-negi1&show_icons=true&theme=dracula&count_private=true&cache_seconds=86400" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-negi1&layout=compact&theme=dracula&cache_seconds=86400" height="150"/>
 
 <br>
 
