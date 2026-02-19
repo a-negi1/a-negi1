@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Adheesh Negi</h1>
 
-<h3 align="center">💻Full-Stack Developer | 🧩Problem Solver | 🌐Tech Explorer</h3>
+<h3 align="center">Full-Stack Developer | Problem Solver | Tech Explorer</h3>
 
 ---
 
@@ -8,8 +8,8 @@
 
 <p align="left">
 🎓 Student @ TIET, Patiala <br>
- 
-🚀 Enthusiastic about developing scalable web applications and discovering the intersection of AI, creativity, and coding.
+💻 Full-Stack Developer <br>
+🚀 Interested in scalable web apps & AI-powered products
 </p>
 
 ---
@@ -66,7 +66,9 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=a-negi1&show_icons=true&theme=dracula&count_private=true&cache_seconds=86400" height="150"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-negi1&layout=compact&theme=dracula&cache_seconds=86400" height="150"/>
 
 <br>
 
