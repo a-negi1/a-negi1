@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Adheesh Negi</h1>
 
-<h3 align="center">Full-Stack Developer | Problem Solver | Tech Explorer</h3>
+<h3 align="center">💻Full-Stack Developer | 🧩Problem Solver | 🌐Tech Explorer</h3>
 
 ---
 
@@ -8,8 +8,8 @@
 
 <p align="left">
 🎓 Student @ TIET, Patiala <br>
-💻 Full-Stack Developer <br>
-🚀 Interested in scalable web apps & AI-powered products
+ 
+🚀 Enthusiastic about developing scalable web applications and discovering the intersection of AI, creativity, and coding.
 </p>
 
 ---
@@ -52,10 +52,14 @@
 
 <a href="https://www.linkedin.com/in/adheesh-negi-72868925a/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://discord.com/users/495841304232722432" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/KgwhXGLiXu/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" height="40"/>
 </a>
 
 </div>
@@ -65,10 +69,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=a-negi1&show_icons=true&theme=dracula&count_private=true&cache_seconds=86400" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-negi1&layout=compact&theme=dracula&cache_seconds=86400" height="150"/>
 
 <br>
 
