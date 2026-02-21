@@ -69,13 +69,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=a-negi1&theme=dracula&cache_seconds=86400" height="150"/>
-
-</div>
 
 ---
 
