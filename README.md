@@ -69,11 +69,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-negi1&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Adheesh's GitHub Stats" height="195" />
-  &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=a-negi1&theme=dark&hide_border=true" alt="Adheesh's Commit Streak" height="195" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-negi1&theme=dark&hide_border=true&layout=compact" alt="Adheesh's Top Languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-negi1&theme=dark&hide_border=true&layout=compact" alt="Adheesh's Top Languages" height="195" />
 </p>
 
 ---
